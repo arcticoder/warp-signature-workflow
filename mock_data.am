@@ -1,0 +1,11 @@
+InstrumentSpec:
+InstrumentType: GravitationalWaveDetector
+FrequencyRange: [10, 10000] Hz
+Sensitivity: 1e-23 m/sqrt(Hz)
+SamplingRate: 16384 Hz
+BandwidthLimits: [10, 7000] Hz
+NoiseModel: AdvancedLIGO
+CalibrationAccuracy: 0.05
+ResponseFunction: unity
+
+NumSignals: 2

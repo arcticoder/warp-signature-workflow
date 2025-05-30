@@ -1,0 +1,7 @@
+SensitivityCurve: AdvancedLIGO-Design
+FrequencyBand: [10, 10000] Hz
+ThresholdStrain: 1e-23
+OptimalFrequency: 200 Hz
+LowFreqCutoff: 10 Hz
+HighFreqCutoff: 7000 Hz
+DetectionThreshold: 8.0
