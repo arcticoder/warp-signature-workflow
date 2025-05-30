@@ -1,0 +1,2 @@
+run: Minkowski, max_R: 0.0, peak_R2: 0.0
+run: Schwarzschild, max_R: 0.125, peak_R2: 0.015625
