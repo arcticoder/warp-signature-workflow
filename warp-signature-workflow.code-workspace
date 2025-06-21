@@ -1,8 +1,19 @@
-{
-  "folders": [
+{  "folders": [
     {
       "path": ".",
       "name": "warp-signature-workflow"
+    },
+    {
+      "name": "Warp Solver Equations",
+      "path": "../warp-solver-equations"
+    },
+    {
+      "name": "Warp Core - Main",
+      "path": "../warp-core"
+    },
+    {
+      "name": "Warp Bubble Shape Catalog",
+      "path": "../warp-bubble-shape-catalog"
     }
   ],
   "extensions": {
